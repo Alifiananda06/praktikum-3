@@ -37,6 +37,8 @@
 
 . Tulis semua perintah-perintah SQL percobaan di atas beserta outputnya! 
 
+[TUGAS PRAKTIKUM 3 Alifia Basis data.pdf](https://github.com/Alifiananda06/praktikum-3/files/11549071/TUGAS.PRAKTIKUM.3.Alifia.Basis.data.pdf)
+
 . Apa bedanya penggunaan RESTRICT dan penggunaan CASCADE?
 
 >Restrict = yaitu perubahan data dan penghapusan data tidak diijinkan pada tabel referensi (parent table) apabila pada tabel child sudah ada yang merujuk pada data tersebut. Cascade = yaitu perubahan atau penghapusan data pada tabel referensi (parent table) akan diikuti oleh tabel child
